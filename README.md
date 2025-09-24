@@ -37,6 +37,7 @@ spring.datasource.username=postgres
 spring.datasource.password=tu_password
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
+```
 
 
 ---
